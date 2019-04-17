@@ -88,4 +88,5 @@ We achieved to enable Roboy, a tendon-driven robot, to move its arm in simulatio
 | DockerHub image: deepandreinforced/rl:latest
 | Presentation: https://tinyurl.com/DeepRoboyControl
 | Video: https://tinyurl.com/DeepRoboyControlVideo
-| Website: https://roboy.org/ and https://tinyurl.com/mediumDRC
+| Blog post: https://tinyurl.com/mediumDRC
+| Website: https://roboy.org/
