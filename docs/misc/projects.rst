@@ -6,17 +6,6 @@ Projects
 This is a list of projects using stable-baselines.
 Please tell us, if you want your project to appear on this page ;)
 
-Making Roboy move with elegance
--------------------------------
-
-We want to enable Roboy, a tendon-driven robot, to move its arm in simulation to reach a pre-defined point in 3D space with its end-effector using Proximal Policy Optimization (PPO) and Soft Actor-Critic (SAC).
-
-| Authors: Alexander Pakakis, Baris Yazici, Tomas Ruiz
-| Email: FirstName.LastName@tum.de
-| GitHub repo: https://github.com/Roboy/DeepAndReinforced
-| DockerHub image: deepandreinforced/rl:latest
-| Website: https://roboy.org/
-
 
 Learning to drive in a day
 --------------------------
@@ -26,6 +15,7 @@ Uses DDPG on VAE features (reproducing paper from wayve.ai)
 
 | Author: Roma Sokolkov (@r7vme)
 | Github repo: https://github.com/r7vme/learning-to-drive-in-a-day
+
 
 Donkey Gym
 ----------
@@ -43,6 +33,7 @@ Series of videos on how to make a self-driving FZERO artificial intelligence usi
 
 | Author: Lucas Thompson
 | `Video Link <https://www.youtube.com/watch?v=PT9pQliUXDk&list=PLTWFMbPFsvz2LIR7thpuU738FcRQbR_8I>`_
+
 
 S-RL Toolbox
 ------------
@@ -84,3 +75,15 @@ Uses SAC on VAE features.
 | Author: Antonin Raffin (@araffin)
 | Blog post: https://towardsdatascience.com/learning-to-drive-smoothly-in-minutes-450a7cdb35f4
 | Github repo: https://github.com/araffin/learning-to-drive-in-5-minutes
+
+
+Making Roboy move with elegance
+-------------------------------
+
+We want to enable Roboy, a tendon-driven robot, to move its arm in simulation to reach a pre-defined point in 3D space with its end-effector using Proximal Policy Optimization (PPO) and Soft Actor-Critic (SAC).
+
+| Authors: Alexander Pakakis, Baris Yazici, Tomas Ruiz
+| Email: FirstName.LastName@tum.de
+| GitHub repo: https://github.com/Roboy/DeepAndReinforced
+| DockerHub image: deepandreinforced/rl:latest
+| Website: https://roboy.org/
