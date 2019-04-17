@@ -86,4 +86,5 @@ We want to enable Roboy, a tendon-driven robot, to move its arm in simulation to
 | Email: FirstName.LastName@tum.de
 | GitHub repo: https://github.com/Roboy/DeepAndReinforced
 | DockerHub image: deepandreinforced/rl:latest
+| Presentation + Video: https://tinyurl.com/DeepRoboyControl 
 | Website: https://roboy.org/
