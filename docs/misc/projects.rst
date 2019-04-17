@@ -80,11 +80,12 @@ Uses SAC on VAE features.
 Making Roboy move with elegance
 -------------------------------
 
-We want to enable Roboy, a tendon-driven robot, to move its arm in simulation to reach a pre-defined point in 3D space with its end-effector using Proximal Policy Optimization (PPO) and Soft Actor-Critic (SAC).
+We achieved to enable Roboy, a tendon-driven robot, to move its arm in simulation to reach a pre-defined point in 3D space with its end-effector. The agent learned through Proximal Policy Optimization (PPO) or Soft Actor-Critic (SAC) to reach new goal states.
 
 | Authors: Alexander Pakakis, Baris Yazici, Tomas Ruiz
 | Email: FirstName.LastName@tum.de
 | GitHub repo: https://github.com/Roboy/DeepAndReinforced
 | DockerHub image: deepandreinforced/rl:latest
-| Presentation + Video: https://tinyurl.com/DeepRoboyControl 
-| Website: https://roboy.org/
+| Presentation: https://tinyurl.com/DeepRoboyControl
+| Video: https://tinyurl.com/DeepRoboyControlVideo
+| Website: https://roboy.org/ and https://tinyurl.com/mediumDRC
